@@ -98,3 +98,5 @@ The p values are all significantly low. This  tells us that none of the groups a
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+IN this branch, all of the groups were statistically different from each other. In branch number2, the only groups that were statistically different were black people and white people. This excersise shows how the more data you have, the more accurate youre results.
