@@ -71,8 +71,13 @@ The opinions in this branch seem to align with the opinions of the data given in
 
 
 
+```{r}
+table2 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table2)
+colPerc(table2)
+```
 
-
+Again, we see that our results are very similar to the ones found in our master branch. weven though this sample size is significantly smaller. 
 
 ## Inferential Results
 
